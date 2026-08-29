@@ -60,7 +60,7 @@
   }
 
   const ACCENT_MAP = { Á: "A", É: "E", Í: "I", Ó: "O", Ú: "U", Ü: "U", Ñ: "Ñ" };
-  const LEADING_ARTICLE = /^(el|la|los|las)\s+/i;
+  const LEADING_ARTICLE = /^(el|la|los|las|the)\s+/i;
 
   // Strips a leading Spanish article so e.g. "La Renga" alphabetizes as "Renga".
   function sortableName(name) {
