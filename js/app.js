@@ -59,9 +59,12 @@
     return list;
   }
 
+  const ACCENT_MAP = { Á: "A", É: "E", Í: "I", Ó: "O", Ú: "U", Ü: "U", Ñ: "Ñ" };
+
   function letterOf(name) {
     const c = name.trim().charAt(0).toUpperCase();
-    return /[A-Z]/.test(c) ? c : "#";
+    const plain = ACCENT_MAP[c] || c;
+    return /[A-ZÑ]/.test(plain) ? plain : "#";
   }
 
   // ---------- Router ----------
