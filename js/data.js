@@ -46,7 +46,7 @@ const ARTISTS = [
     "name": "Almendra",
     "genres": [
       "Rock psicodélico",
-      "Folk",
+      "Folk rock",
       "Rock progresivo"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Almendra_(banda)",
@@ -119,8 +119,7 @@ const ARTISTS = [
     "slug": "astor-piazzolla",
     "name": "Astor Piazzolla",
     "genres": [
-      "Tango",
-      "Nuevo tango"
+      "Tango"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Ástor_Piazzolla",
     "bio": "Astor Pantaleón Piazzolla (Mar del Plata, 11 de marzo de 1921-Buenos Aires, 4 de julio de 1992) fue un bandoneonista, director de orquesta, arreglista y compositor argentino considerado uno de los músicos más importantes del siglo XX y uno de los mayores exponentes de tango en todo el mundo.\n\nDescendiente de italianos, cuando tenía tres años su familia se mudó a Nueva York, donde comenzó a tomar clases de música y bandoneón, interpretando piezas clásicas en el instrumento, aunque no tangos. En 1934 conoció a Carlos Gardel en Manhattan y realizó una pequeña aparición en la película El día que me quieras haciendo de canillita. Fue junto a Gardel cuando Piazzolla tocó su primer tango en un asado que reunió a varios argentinos que estaban en la metrópoli estadounidense. En 1937 volvió a Argentina decidido a tocar tangos y comenzó a trabajar de forma profesional tocando el bandoneón, y desde finales de 1939 haciendo arreglos para la orquesta de Aníbal Troilo, al mismo tiempo que tomaba clases de música con Alberto Ginastera. En 1944 abandonó la orquesta de Troilo para emprender su propia carrera. Sin estar completamente convencido de hacer tango o música clásica, en 1954 viajó a París para estudiar con Nadia Boulanger, quien terminó de convencerlo para que compusiera tangos. Durante su estadía en París grabó y editó su primer álbum de duración extendida, Sinfonía de tango, dando inicio a una extensa y fructífera carrera discográfica en la que editaría alrededor de cuarenta álbumes de estudio grabados entre Argentina, Europa (por lo general Italia y Francia) y Estados Unidos. Además grabó varios álbumes en colaboración con importantes músicos, como Summit con Gerry Mulligan y The New Tango con Gary Burton, entre otros.\n\nSus obras revolucionaron el tango tradicional, en un nuevo estilo denominado tango de vanguardia o nuevo tango, menos bailable y pensado para una escucha atenta. Entre las innovaciones que emprendió, su nuevo tango incluyó instrumentos pocos usuales para el género como percusión, guitarra eléctrica y vibráfono e integró elementos de la música académica y el jazz tales como el contrapunto, las fugas o improvisaciones jazzísticas. Si bien al comienzo de su carrera se asoció con cantores de tango como Francisco Fiorentino, posteriormente eliminaría a los cantores de sus agrupaciones para hacer música meramente instrumental, aunque compuso destacables obras líricas como el emblemático tango-vals \"Balada para un loco\" y su ópera ligera María de Buenos Aires, ambas en asociación con Horacio Ferrer. Estos cambios le acarrearon varias críticas por parte de los exponentes más ortodoxos del tango.\n\nBandoneonista virtuoso, lideró una gran variedad de conjuntos, desde la orquesta típica, sextetos, octetos, nonetos y el quinteto, cuya formación sería la más ampliamente usada durante su carrera, mientras que su celebrado octeto electrónico abrió las puertas a la fusión del tango y el rock. Compuso también música para cerca de 40 películas. Se estima que escribió cerca de tres mil obras.\n\nEn sus últimos años de vida fue reivindicado por intelectuales, jazzistas y músicos de rock de todo el mundo, al igual que por nuevos referentes del tango, y en el siglo XXI se lo considera como uno de los músicos más importantes de la historia de su país.",
@@ -187,7 +186,7 @@ const ARTISTS = [
     "name": "Callejeros",
     "genres": [
       "Rock barrial",
-      "Rock and roll"
+      "Rock"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Callejeros_(banda)",
     "bio": "Callejeros fue un grupo musical de rock barrial argentino formado en Ciudad Celina, Buenos Aires, en el año 1995 y disuelto en 2010. Fue formada por el compositor Patricio Fontanet y el bajista Christian Torrejón. Es considerada por los medios como la banda más influyente y convocante en la historia del rock barrial.\n\nFormada a mediados de la década de los 90' bajo el nombre de Río Verde. La banda ha tenido varios éxitos que siguen presentes en la cultura del rock argentino y latinoamericano, por ejemplo: «9 de Julio», «Una nueva noche fría», «Rocanroles sin destino», «Imposible», «Creo», «Prohibido», entre otras. La formación original estuvo integrada por: Pato Fontanet, Dios Torrejón, Eduardo Vázquez, Gustavo Varela y Guillermo Le Voci. Más tarde a estos se le sumaron Maximiliano Djerfy, Juancho Carbone y Elio Delgado.\n\nEl 30 de diciembre de 2004, y en su momento de mayor popularidad, el grupo musical fue protagonista de la tragedia de Cromañón en la que fallecieron 194 personas, y que incidió radicalmente en la historia del grupo y también en la escena del rock de Argentina. En 2010, con ocho álbumes de estudio (entre demos y oficiales) el grupo anunció su disolución.",
@@ -216,8 +215,7 @@ const ARTISTS = [
     "slug": "carlos-gardel",
     "name": "Carlos Gardel",
     "genres": [
-      "Tango",
-      "Milonga"
+      "Tango"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Carlos_Gardel",
     "bio": "Carlos Gardel fue un cantante, compositor y actor de cine nacionalizado argentino, fallecido en 1935. Es el más célebre representante del tango en la historia. Como iniciador y máximo exponente de la canción del género, fue uno de los intérpretes más importantes de la música popular a nivel mundial en la primera mitad del siglo XX, debido a la calidad de su voz, la cantidad de discos vendidos (tanto como cantante y compositor), sus numerosas películas relacionadas con el tango, y su repercusión mundial.\n\nNo existe unanimidad completa respecto de su lugar y fecha de nacimiento. La hipótesis uruguaya sostiene que nació en Tacuarembó (Uruguay) el 11 de diciembre entre 1883 y 1887. La hipótesis francesa sostiene que nació en Toulouse (Francia) el 11 de diciembre de 1890. Hay coincidencia en que vivió desde niño en Buenos Aires y se nacionalizó argentino en 1923. Falleció el 24 de junio de 1935 en Medellín, Colombia, en un accidente de aviación.\n\nGardel y su imagen han sido objeto de idolatría popular, especialmente en Argentina, Uruguay y Colombia, ocupando un lugar de mito y símbolo cultural que mantiene su vigencia. En 2003 la UNESCO registró la voz de Gardel en el programa Memoria del Mundo, dedicado a preservar documentos pertenecientes al patrimonio histórico de los pueblos del mundo. Al mismo tiempo, la referencia a su voz y su memoria invoca la frase: «cada día canta mejor».",
@@ -284,8 +282,7 @@ const ARTISTS = [
     "name": "Chaqueño Palavecino",
     "genres": [
       "Folclore",
-      "Chacarera",
-      "Zamba"
+      "Chacarera"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Chaqueño_Palavecino",
     "bio": "Oscar Esperanza Palavecino (Rancho El Ñato, Provincia de Salta, Argentina; 18 de diciembre de 1959) más conocido como Chaqueño Palavecino es un cantante argentino de música folclórica.\n\nCon una larga trayectoria musical, iniciada en el año 1984, es reconocido por las composiciones de éxitos como \"La ley y la trampa\", Abrazando al caudillo, sus conciertos en vivo como Buenos Aires 2005. En 2008, fue reconocido por los Premios Grammy Latinos por su destacada actuación en la música folklorica de Argentina, y también premiado en distintas ediciones de los Premios Gardel a lo largo de más de 20 años.",
@@ -315,8 +312,7 @@ const ARTISTS = [
     "name": "Charly García",
     "genres": [
       "Rock",
-      "Pop",
-      "Experimental"
+      "Pop"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Charly_García",
     "bio": "Carlos Alberto García Moreno (Buenos Aires, 23 de octubre de 1951), más conocido por su nombre artístico Charly García, es un músico, cantautor, multinstrumentista, compositor y productor discográfico argentino, considerado una de las figuras más importantes de la música popular argentina, latinoamericana y del rock en español. Nombrado frecuentemente el «padre del rock argentino» junto a Luis Alberto Spinetta, García es aclamado por su extensa obra discográfica, tanto en sus múltiples agrupaciones como en su carrera solista, por la complejidad compositiva de su música —que abarca géneros como el folk rock, el rock progresivo, el rock sinfónico, el avant garde, la new wave, el pop rock, el pop barroco y el synth pop—, por su lírica transgresora y crítica hacia la sociedad moderna argentina, en especial durante la dictadura cívico-militar (1976-1983), y por su personalidad rebelde y extravagante.\n\nSiendo adolescente, García fundó la banda Sui Generis junto a su compañero de clase Nito Mestre a fines de los años sesenta. Publicaron tres álbumes de éxito comercial y crítico, separándose en 1975 con un concierto en el Luna Park. Tras la despedida, formó parte de los supergrupos PorSuiGieco y La Máquina de Hacer Pájaros, con el que intentó instaurar el rock progresivo en la escena musical latinoamericana. Regresó a la Argentina en 1978 para presentar Serú Girán, que se convertiría en una de las bandas más importantes de la historia argentina por su calidad musical y letrística, disolviéndose en 1982. Luego de componer la banda sonora de la película Pubis angelical (1982) y su disco debut como solista, Yendo de la cama al living (1982), García inició una prolífica carrera solista.\n\nSu exitosa trilogía se completó con los discos de new wave Clics modernos (1983) y Piano Bar (1984), catalogados entre los mejores álbumes de la historia del rock argentino. Trabajó luego en los proyectos Tango (1986) y Tango 4 (1991) junto a Pedro Aznar, y publicó una segunda trilogía con Parte de la religión (1987), Cómo conseguir chicas (1989) y Filosofía barata y zapatos de goma (1990). En 1992 reunió brevemente a Serú Girán, y hacia fines de los noventa entró en su etapa Say No More. Tras un largo hiato para rehabilitarse de sus adicciones, regresó con el álbum en vivo El concierto subacuático (2010) y publicaciones posteriores como Kill Gil (2010), Random (2017) y La lógica del escorpión (2024). Canciones como «Los dinosaurios», «Demoliendo hoteles», «Seminare» y «No llores por mí, Argentina» figuran entre las mejores del rock argentino. Recibió, entre otros reconocimientos, el Premio Konex de Platino, tres Premios Gardel de Oro y el premio Grammy a la Excelencia Musical en 2009.",
@@ -346,7 +342,7 @@ const ARTISTS = [
     "name": "Divididos",
     "genres": [
       "Rock",
-      "Funk",
+      "Funk rock",
       "Chacarera"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Divididos",
@@ -454,8 +450,7 @@ const ARTISTS = [
     "name": "La Renga",
     "genres": [
       "Hard rock",
-      "Blues rock",
-      "Stoner rock"
+      "Blues rock"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/La_Renga",
     "bio": "La Renga es un grupo musical de hard rock de Argentina formado en el barrio de Parque Avellaneda y Mataderos, Buenos Aires, en 1988. La formación está integrada por Gustavo \"Chizzo\" Nápoli (cantante principal y guitarra principal), Gabriel \"Tete\" Iglesias (bajo) y Jorge \"Tanque\" Iglesias (batería), quienes integran el grupo desde sus inicios.\n\nSu carrera se basó en la autogestión, y desde 2002 cuentan con una producción independiente, manejando su propio sello, estudio y realización de sus espectáculos.",
@@ -588,7 +583,6 @@ const ARTISTS = [
     "name": "Los Auténticos Decadentes",
     "genres": [
       "Ska",
-      "Cumbia",
       "Rock"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Los_Aut%C3%A9nticos_Decadentes",
@@ -625,8 +619,7 @@ const ARTISTS = [
     "name": "Los Fabulosos Cadillacs",
     "genres": [
       "Ska",
-      "Reggae",
-      "Dub"
+      "Reggae"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Los_Fabulosos_Cadillacs",
     "bio": "Los Fabulosos Cadillacs es una banda argentina de ska proveniente de Buenos Aires y fundada en 1984. Llevan grabados 16 álbumes y a lo largo de sus distintas eras colaboraron con distintos artistas argentinos e internacionales, obteniendo en el medio un gran reconocimiento crítico y comercial. Varios de sus trabajos han sido incluidos en listas de mejores álbumes de rock latinoamericano (Al borde, Rolling Stone Argentina) y han recibido nominaciones y premios de MTV Latinoamérica, Premios Gardel, Fundación Konex y Grammy. Su último álbum de estudio se titula La salvación de Solo y Juan (2016), para cuya promoción realizaron festivales y conciertos en Latinoamérica, Estados Unidos, Europa y Asia.",
@@ -662,8 +655,7 @@ const ARTISTS = [
     "name": "Los Pericos",
     "genres": [
       "Reggae",
-      "Ska",
-      "Rocksteady"
+      "Ska"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Los_Pericos",
     "bio": "Los Pericos es una banda de reggae y ska argentina fundada en 1986. En 2006 había superado los dos millones y medio de discos vendidos y más de tres mil presentaciones en vivo. Fueron nombrados embajadores del reggae por Jamaica.",
@@ -699,7 +691,6 @@ const ARTISTS = [
     "name": "Los Piojos",
     "genres": [
       "Rock",
-      "Candombe",
       "Reggae"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Los_Piojos",
@@ -730,8 +721,7 @@ const ARTISTS = [
     "name": "Luis Alberto Spinetta",
     "genres": [
       "Rock nacional",
-      "Rock progresivo",
-      "Jazz rock"
+      "Rock progresivo"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Luis_Alberto_Spinetta",
     "bio": "Luis Alberto Spinetta (Núñez, 23 de enero de 1950-Villa Urquiza, 8 de febrero de 2012) fue un músico, cantante, guitarrista, poeta, escritor, compositor y multinstrumentista argentino, considerado uno de los más importantes músicos de Argentina, Latinoamérica y del habla hispana por la complejidad instrumental, compositiva, lírica y poética de sus obras musicales, tanto en sus múltiples agrupaciones y como solista. El gobierno argentino estableció el 23 de enero de cada año como «Día Nacional del Músico» en conmemoración a su nacimiento, bajo la Ley 27.106.\n\nEn sus años iniciales, Spinetta formaría diversas bandas de rock en las décadas de los 60 y 70 que serían muy influyentes e importantes en la evolución del rock nacional y latinoamericano, como lo serían Almendra, Pescado Rabioso e Invisible, introductoras de géneros como hard rock, blues, y rock progresivo en la escena musical argentina. Tras la disolución de Pescado Rabioso, pero usando aún el nombre de esa banda, editó Artaud (1973), considerado como el mejor disco de la historia del rock nacional argentino por la revista Rolling Stone.\n\nDurante la década de los 2000 editó sus últimos trabajos, y en 2008 lanzó su último álbum, Un mañana, a la par del recital Spinetta y las Bandas Eternas en 2009, donde celebró sus cuarenta años de trayectoria en un concierto de cinco horas y media ante 40 mil personas en el Estadio José Amalfitani.\n\nFalleció en 2012 a los 62 años, a causa de un cáncer de pulmón provocado por su adicción al cigarrillo. Sus cenizas fueron esparcidas en Río de la Plata.\n\nEn 2005 obtuvo el Premio Konex de Platino como el más destacado solista masculino de rock de la década en Argentina. Su canción fue considerada en 2002 como la segunda mejor canción de todos los tiempos del rock argentino y la vigésimo octava del rock de Hispanoamérica. Spinetta editó 376 canciones propias. En 1997 la revista Billboard lo definió como «ícono del rock argentino», y en 2001 el diario Página/12 lo consideró el artista más influyente en la historia del rock argentino.",
@@ -767,7 +757,6 @@ const ARTISTS = [
     "name": "Massacre",
     "genres": [
       "Punk rock",
-      "Skate punk",
       "Hardcore punk"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Massacre",
@@ -798,8 +787,7 @@ const ARTISTS = [
     "name": "Mercedes Sosa",
     "genres": [
       "Folclore",
-      "Trova",
-      "Música popular"
+      "Trova"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Mercedes_Sosa",
     "bio": "Haydée Mercedes Sosa (San Miguel de Tucumán, 9 de julio de 1935-Buenos Aires, 4 de octubre de 2009), conocida simplemente como Mercedes Sosa o la Negra Sosa, fue una cantora de música popular argentina, considerada la mayor exponente del folklore argentino. Se la conoció como «la voz de América Latina».\n\nFundadora del movimiento del nuevo cancionero y una de las exponentes de la nueva canción latinoamericana, incursionó en otros géneros como el tango, el rock y el pop. Se definía a sí misma como «cantora» antes que «cantante», siendo una distinción fundamental de la nueva canción latinoamericana de la que ella fue una de las iniciadoras: «Cantante es el que puede y cantor el que debe».\n\nEse ideal fue expresado por Mercedes Sosa en los títulos de álbumes como Canciones con fundamento y Yo no canto por cantar. Entre las interpretaciones con que se ha destacado en el cancionero latinoamericano se encuentran «Al Jardín de la República», «Canción con todos», «Alfonsina y el mar», «Como la cigarra», «Zamba para no morir», «Solo le pido a Dios», «La maza», «Todo cambia», «Duerme negrito» y «Calle angosta».\n\nEntre sus discos se destacaron Canciones con fundamento (1965), Yo no canto por cantar (1966), Mujeres argentinas (1969), Homenaje a Violeta Parra (1971), Cantata sudamericana (1972), Mercedes Sosa interpreta a Atahualpa Yupanqui (1977), Mercedes Sosa en Argentina (1982), Alta fidelidad (1997), su interpretación de la Misa criolla (2000) y Cantora (2009), su último trabajo, lanzado poco antes de su muerte, que es un álbum doble donde interpreta 34 canciones a dúo con destacados cantantes iberoamericanos y cierra con el himno nacional argentino.",
@@ -970,8 +958,7 @@ const ARTISTS = [
     "name": "Serú Girán",
     "genres": [
       "Rock progresivo",
-      "Rock nacional",
-      "Art rock"
+      "Rock nacional"
     ],
     "wikipedia": "https://es.wikipedia.org/wiki/Ser%C3%BA_Gir%C3%A1n",
     "bio": "Serú Girán fue un supergrupo argentino de rock progresivo, formado en 1978 por Charly García (1951–), David Lebón (1952–), Pedro Aznar (1959–) y Oscar Moro (1948–2006). En sus apenas cinco años de actividad, se convirtió en uno de los actos musicales más importantes en la historia de la música latinoamericana y en la evolución del rock en español, sirviendo como influencia a múltiples artistas y bandas que surgirían en los años posteriores. Además, Serú Girán sería parte de notoria atención mediática por sus declaraciones sociopolíticas en contra de la dictadura militar argentina que acechaba a la Argentina durante los fines de los 70 e inicios de los 80. Luego de que García y Lebón tuvieran un proyecto fallido en Brasil, ambos regresaron a Argentina, donde conocieron a un joven Pedro Aznar de 18 años, quien impresionó a los dos músicos por sus talentos como bajista. Moro sería el último miembro en unirse, al ser pedido por García, ya que ambos habían compartido grupo con La Máquina de Hacer Pájaros. Producidos por Billy Bond, el álbum debut de la banda, Serú Girán (1978), fue duramente criticado en su lanzamiento por los medios y el público, debido a su sonido orquestal poco convencional de la época, a pesar de que, en años posteriores, los cortes «Serú Girán», «Seminare» y «Eiti-Leda» se convirtieron en clásicos del rock argentino. La banda decidió cambiar drásticamente su sonido por canciones más directas y simples para su siguiente trabajo, La grasa de las capitales (1979), que incluyó el controversial «Viernes 3 a. m.», el cual fue censurado por la dictadura militar (no por razones políticas, paradójicamente, sino por incitación al suicidio), y fue un éxito comercial y crítico, siendo considerado uno de los mejores álbumes en la historia del rock nacional por la revista Rolling Stone. La banda continuó impulsando su crítica hacia el gobierno de facto en su tercer disco, Bicicleta (1980), y su aclamada «Canción de Alicia en el país», que le trajo aún más reconocimiento internacional y por parte del público y la crítica. Después de que lograran hacer un concierto histórico para el rock nacional, al tocar ante 70 000 personas en La Rural, Serú se separó en 1982 tras publicar Peperina (1981), y la aclamada y popular «No llores por mí, Argentina», compuesta en 1981 y lanzada en el 82 dedicada hacia el propio país y anticipando la situación tras la Guerra de las Malvinas de ese mismo año. Diez años después de su separación, los cuatro miembros volvieron a juntarse para lanzar su quinto y último álbum, Serú '92 (1992), que se convirtió en su álbum más exitoso, con 200 000 copias vendidas, y también lograron convertirse en la primera banda local en hacer un concierto en el Estadio Monumental, con dos fechas que fueron sold-out con una histórica marca de 160 000 entradas vendidas. Esa sería la última vez que los cuatro miembros estarían juntos, teniendo reuniones esporádicas en los siguientes años, hasta la muerte de Moro en 2006.",
@@ -1006,7 +993,6 @@ const ARTISTS = [
     "slug": "soda-stereo",
     "name": "Soda Stereo",
     "genres": [
-      "Pop rock",
       "New wave",
       "Rock alternativo"
     ],
