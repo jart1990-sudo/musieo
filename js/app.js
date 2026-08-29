@@ -60,9 +60,15 @@
   }
 
   const ACCENT_MAP = { Á: "A", É: "E", Í: "I", Ó: "O", Ú: "U", Ü: "U", Ñ: "Ñ" };
+  const LEADING_ARTICLE = /^(el|la|los|las)\s+/i;
+
+  // Strips a leading Spanish article so e.g. "La Renga" alphabetizes as "Renga".
+  function sortableName(name) {
+    return name.replace(LEADING_ARTICLE, "");
+  }
 
   function letterOf(name) {
-    const c = name.trim().charAt(0).toUpperCase();
+    const c = sortableName(name).trim().charAt(0).toUpperCase();
     const plain = ACCENT_MAP[c] || c;
     return /[A-ZÑ]/.test(plain) ? plain : "#";
   }
@@ -132,12 +138,13 @@
       const matchesText = !filterState.text || a.name.toLowerCase().includes(filterState.text);
       const matchesGenre = !filterState.genre || (a.genres || []).includes(filterState.genre);
       return matchesText && matchesGenre;
-    }).sort((a, b) => a.name.localeCompare(b.name, "es"));
+    }).sort((a, b) => sortableName(a.name).localeCompare(sortableName(b.name), "es"));
   }
 
   function renderHome() {
-    searchInput.value = filterState.text;
-    genreFilter.value = filterState.genre;
+    filterState = { text: "", genre: "" };
+    searchInput.value = "";
+    genreFilter.value = "";
     appEl.innerHTML = `<div id="artistListContainer"></div>`;
     renderArtistListOnly();
   }
