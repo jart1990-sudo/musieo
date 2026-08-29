@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Musieo</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="site-header-inner">
+    <a href="#/" class="site-title">🎵 Musieo</a>
+    <label class="shuffle-toggle">
+      <span>Modo aleatorio</span>
+      <input type="checkbox" id="shuffleToggle">
+      <span class="switch"></span>
+    </label>
+  </div>
+  <div id="filterBar" class="filter-bar" hidden>
+    <input type="text" id="searchInput" placeholder="Buscar artista..." autocomplete="off">
+    <select id="genreFilter">
+      <option value="">Todos los géneros</option>
+    </select>
+  </div>
+</header>
+
+<main id="app"></main>
+
+<script src="js/data.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
